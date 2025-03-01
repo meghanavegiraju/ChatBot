@@ -3,9 +3,8 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure API Key securely
-API_KEY="import os
-import streamlit as st
-import google.generativeai as genai
+
+
 
 # Configure API Key securely
 API_KEY="AIzaSyDn1S24Z26z2E4MMPiAEhD9HMqbuMo8M8Q"
